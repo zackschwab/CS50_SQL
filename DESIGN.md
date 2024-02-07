@@ -2,8 +2,6 @@
 
 By Zachary Schwab
 
-Video overview: https://www.youtube.com/watch?v=8JXv9zHGrbE
-
 ## Scope
 
 This database, designed for an automotive dealership, allows dealerships to track their vehicles in inventory, as well as their financials. To achieve this, included in the database's scope is:
