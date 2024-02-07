@@ -9,4 +9,4 @@ Install SQLite3 for this project by following the instructions [Here](https://ww
 ## Academic Honesty 
 Everyone taking CS50_SQL is allowed to upload their final projects to GitHub; you just can't upload problem sets. 
 
-If you're currently taking this course <span style="color: red;">DO NOT</span> copy this code. Harvard will detect it and revoke your certificate.
+If you're currently taking this course **DO NOT** copy this code. Harvard will detect it and revoke your certificate.
