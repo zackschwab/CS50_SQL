@@ -21,6 +21,7 @@ sqlite3 <database name>
 
 ER Diagram:
 ![Failed to load](diagram.png)
+Reference DESIGN.md for more information
 ## Academic Honesty 
 Everyone taking CS50_SQL is allowed to upload their final projects to GitHub; you just can't upload problem sets. 
 
